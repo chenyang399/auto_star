@@ -45,22 +45,7 @@ import random
 #     tab.ele("text=助记词或私钥").click()
     
     
-#     eles = tab.eles("tag:input@@class:mnemonic-words-inputs__container__input")
-#     eles[0].input("lounge")
-#     eles[1].input("dust")
 
-#     eles[2].input("elite")
-#     eles[3].input("lock")
-#     eles[4].input("dust")
-#     eles[5].input("clay")
-#     eles[6].input("voyage")
-#     eles[7].input("way")
-#     eles[8].input("flight")
-
-#     eles[9].input("ready")
-#     eles[10].input("kid")
-#     eles[11].input("lawsuit")
-  
 
     
     
